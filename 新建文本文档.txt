@@ -1,0 +1,7 @@
+https://github.com/heping3358/DEV.git
+
+
+git config --global user.name "heping3358"
+git config --global user.email "wangzhiy32200891@163.com"
+git clone https://github.com/heping3358/DEV.git
+
